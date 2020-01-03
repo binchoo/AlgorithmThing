@@ -1,4 +1,3 @@
-
 struct node {
 	struct node* next;
 	struct node* down;
